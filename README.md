@@ -1,2 +1,2 @@
-# js-menu-items-filter-with
+# js-menu-items-filter
 filtering menu items using simple js
